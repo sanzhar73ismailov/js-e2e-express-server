@@ -1,6 +1,6 @@
 {
   "name": "js-e2e-express-server",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "JavaScript server written with Express.js",
   "main": "index.js",
   "directories": {
